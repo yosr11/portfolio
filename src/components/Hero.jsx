@@ -21,7 +21,7 @@ export default function Hero() {
           <a href="#projects" className="btn-hero btn-hero-primary">
             View My Work ↗
           </a>
-          <a href="/cv/CV_Yosr_Mahfoudh.pdf" target="_blank" rel="noopener noreferrer" className="btn-hero btn-hero-secondary">
+          <a href="/cv/yosr-mahfoudh.pdf" target="_blank" rel="noopener noreferrer" className="btn-hero btn-hero-secondary">
             Resume 📄
           </a>
           <a href="https://github.com/yosr11" target="_blank" rel="noopener noreferrer" className="btn-hero btn-hero-secondary">
