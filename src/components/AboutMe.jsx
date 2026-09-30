@@ -10,7 +10,7 @@ export default function AboutMe() {
         <div className="edu-lang-grid" style={{ gap: '40px', alignItems: 'center' }}>
           <div className="reveal left">
             <p className="section-intro" style={{ marginBottom: '20px' }}>
-              Ingénieure diplômée en Téléinformatique de l'ISITCOM Sousse, spécialisée en intelligence artificielle et développement logiciel. Passionnée par les technologies d'IA et le développement web.
+              Ingénieure diplomée en Téléinformatique de l'ISITCOM Sousse, spécialisée en intelligence artificielle et développement logiciel. Passionnée par les technologies d'IA et le développement web.
             </p>
             <p className="section-intro" style={{ marginBottom: '20px' }}>
               Rigoureuse, curieuse et dotée d'un bon esprit d'analyse, je souhaite mettre mes compétences techniques au service de projets innovants au sein d'un environnement collaboratif favorisant l'excellence et l'amélioration continue.

@@ -28,7 +28,7 @@ const SKILL_CATEGORIES = [
   },
   {
     label: 'DevOps',
-    chips: ['Git', 'GitHub', 'CI/CD', 'Docker'],
+    chips: ['Git', 'GitHub', 'CI/CD', 'Docker', 'Vercel'],
     color: '#f59e0b',
   },
 ]
