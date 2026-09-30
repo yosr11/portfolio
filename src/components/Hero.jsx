@@ -14,7 +14,7 @@ export default function Hero() {
           <span className="hero-divider-line"></span>
         </div>
         <p className="hero-subtitle">
-          Ingénierie en Téléinformatique — Spécialisée en Intelligence Artificielle et Développement Logiciel
+          Ingénieure en Téléinformatique — Spécialisée en Intelligence Artificielle et Développement Logiciel
         </p>
         
         <div className="hero-buttons">
